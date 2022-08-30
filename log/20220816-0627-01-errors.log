@@ -1,0 +1,16 @@
+[0mPOST /api/v1/token [33m404 [0m16.781 ms - 24[0m
+[0mGET /api/v1/SubscriberAction/?pageNo=1&pageSize=20 [31m500 [0m56.850 ms - 2443[0m
+[0mGET /api/v1/ServiceType/?pageNo=1&pageSize=20 [33m404 [0m56.488 ms - 24[0m
+[0mPOST /api/v1/ServiceType [31m500 [0m42.931 ms - 2594[0m
+[0mPOST /api/v1/ServiceType [31m500 [0m37.000 ms - 2594[0m
+[0mGET /api/v1/ServiceType/?pageNo=1&pageSize=20 [33m404 [0m48.804 ms - 24[0m
+[0mPOST /api/v1/WashType [31m500 [0m40.097 ms - 2585[0m
+[0mGET /api/v1/SubscriberAction/?pageNo=1&pageSize=20 [31m500 [0m49.171 ms - 2443[0m
+[0mGET /api/v1/Cars/?pageNo=1&pageSize=20 [33m404 [0m45.645 ms - 24[0m
+[0mGET /api/v1/SubscriberAction/?pageNo=1&pageSize=20 [31m500 [0m52.620 ms - 2443[0m
+[0mGET /api/v1/SubscriberAction/?pageNo=1&pageSize=20 [31m500 [0m52.742 ms - 2443[0m
+[0mPOST /api/v1/CompanyWashList [31m500 [0m32.198 ms - 2604[0m
+[0mGET /api/v1/Cars/?pageNo=1&pageSize=20 [33m404 [0m48.810 ms - 24[0m
+[0mGET /api/v1/Cars/?pageNo=1&pageSize=20 [33m404 [0m51.763 ms - 24[0m
+[0mGET /api/v1/company [33m401 [0m5.615 ms - 12[0m
+[0mGET /api/v1 [33m404 [0m5.378 ms - 1419[0m
